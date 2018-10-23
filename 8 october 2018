@@ -4,4 +4,4 @@ macros
 static , extern, namespace
 input 2d array, functions
 Sortings: insertion ,bubble,selection
-solve given SPOJ qstns: ARMY,CANDY,CANDY3
+solve given SPOJ qstns: ARMY,CANDY,CANDY3,AP2
